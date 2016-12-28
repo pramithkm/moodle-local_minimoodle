@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 $plugin->component = 'local_minimoodle';
-$plugin->version = 0.1;
-$plugin->release = 'v0.1';
+$plugin->version = 0.2;
+$plugin->release = 'v0.2';
 $plugin->requires = 2014051200;
 $plugin->maturity = MATURITY_ALPHA;
 $plugin->cron = 0;

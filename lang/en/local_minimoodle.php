@@ -22,7 +22,6 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-// Site content
 $string['site_fullname'] = 'Hogwarts School of Witchcraft and Wizardry';
 $string['site_shortname'] = 'Hogwarts Moodle';
 $string['site_summary'] = 'Hogwarts School of Witchcraft and Wizardry, shortened Hogwarts, is a fictional British school of magic for students aged eleven to eighteen, and is the primary setting for the first six books in J.K. Rowling\'s Harry Potter series.';
